@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyarth Jaiswal, based out of Canada.
-**- Marketing Science | Business Intelligence | GCP Expert**
+- **_Marketing Science | Business Intelligence | GCP Expert_**
 - 👀 A Marketer of 10 years, Data Analyst & BI expert of 2 years
 -  **A solutions guy**
 - 💞️ I’m looking to collaborate on  Analytics datasets & techniques
